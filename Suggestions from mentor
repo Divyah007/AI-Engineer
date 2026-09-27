@@ -1,0 +1,7 @@
+for every 30 min of theory, do 90 min of building. Always.
+ML engineer spends weeks on linear algebra, transformers from scratch, backprop. As an AI Engineer you CALL the AI model, you don't build it. That's ML Research, not AI Engineering.
+LangChain is outdated use LangGraph
+deployed project > 5 certificates. Always.
+Building RAG without measuring faithfulness/relevance is like writing Java without tests. You don't know when it breaks or why it's bad.Add RAGAS or LangSmith evals from Day 1. Make it a habit.
+You're a Java dev. Python syntax takes 2 days to get comfortable with. Stop treating it like a blocker. Just start and google what you don't know. Learn Python by building AI projects, not by taking Python courses.
+X========================X
