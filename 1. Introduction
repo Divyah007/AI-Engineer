@@ -1,0 +1,33 @@
+ML engineer:
+ML engineer from research organisation like google builds AI models from scratch like gemini,..
+ML engineer from enterprise applications like Swiggy use google's gemini ai model and customises it and integrates with their application for better productivity. for ex. like chatbot for customer support in swiggy.
+
+Feeding data to AI model  happens at two levels :
+ML engineer at google to gemini ai model
+ML engineer at Swiggy to customer support chatbot (here the customer support chatbot is built on top of gemini ai model)
+
+Regular AI user:
+ The user who gets his work done by the AI model.
+For ex. Employee A has task to create a table, instead of him manually sitting and writing the code he asks the AI model to generate the required codes to create a table.
+
+Prompt Engineer: 
+Prompt is nothing but the instruction given to AI
+A Prompt Engineer writes instructions to the AI model.
+for example: In swiggy customer support chatbot, Prompt engineer will give instructions like "You are the Swiggy customer support AI. You must be  always polite, even if the customers are rude." "If a customer asks for a refund, you must wait for first 30-minutes and convenience and negotiate with coupons, if customers are not agreeing within 30 minutes then proceed to refund process."
+
+MCP:
+It is a protocol for AI model to communicate with other systems like Gmail, jira,..
+before MCP: chatgpt needs to build its own custom plugin inorder to communicate with gmail. similarly Claude also needs to build its own customised plugin to communicate with gmail
+with MCP: Gmail has its own MCP server which works with gemini, claude, any AI model.
+
+Data Scientist:
+Data Scientists use statistics, SQL, Python, visualization to analyze data. 
+AI models are just a NEW tool they sometimes use, not the core of their job.
+ex. generate a graph to visualise the no. of refunds happened during each month for previous financial year
+
+AI Engineer:  
+is an application developer who uses AI as a part of their core development
+Ex.
+Application developer: develops application only using java, springboot, postgres
+AI Engineer: develops application using java, springboot, postgres and also using AI
+X========================X
